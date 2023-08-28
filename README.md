@@ -4,7 +4,7 @@ This moodle report plugin shows fullnames of ten random users and names of cours
 
 ## Installing manually ##
 
-The plugin can be also installed by putting the whle folder tenrandomuserscourses into
+The plugin can be also installed by putting the whole folder tenrandomuserscourses into
 
     {your/moodle/dirroot}/report/
 
