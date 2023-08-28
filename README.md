@@ -1,4 +1,4 @@
-# Ten random users' enroled courses #
+# Ten random users and their enroled courses #
 
 This moodle report plugin shows fullnames of ten random users and names of courses they took in table. Avilable for administrators only.
 
