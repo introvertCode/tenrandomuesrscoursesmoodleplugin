@@ -1,12 +1,12 @@
 # Ten random users' courses #
 
-This report plugin shows fullnames of ten random users and names of courses they took in table. Avilable for administrators only.
+This moodle report plugin shows fullnames of ten random users and names of courses they took in table. Avilable for administrators only.
 
 ## Installing manually ##
 
-The plugin can be also installed by putting the contents of this directory to
+The plugin can be also installed by putting the whle folder tenrandomuserscourses into
 
-    {your/moodle/dirroot}/report/tenrandomuserscourses
+    {your/moodle/dirroot}/report/
 
 Afterwards, log in to your Moodle site as an admin and go to _Site administration >
 Notifications_ to complete the installation.
