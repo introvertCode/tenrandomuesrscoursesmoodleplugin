@@ -1,6 +1,6 @@
 # Ten random users' courses #
 
-This report plugin shows fullnames of ten random users and names of courses they took in table. Avilable for administrators only.
+This moodle report plugin shows fullnames of ten random users and names of courses they took in table. Avilable for administrators only.
 
 ## Installing manually ##
 
