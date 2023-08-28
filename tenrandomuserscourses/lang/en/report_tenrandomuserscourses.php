@@ -21,5 +21,5 @@
  * @copyright  2023 Stanisław Bielski <stanislaw.bielski@protonmail.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-
+defined('MOODLE_INTERNAL') || die();
 $string['pluginname'] = 'Ten random users\' courses';
